@@ -1,4 +1,4 @@
-# Purpose - Auto deployment on live and staging with QA team.
+# DevOps_Task_1 - Auto deployment on live and staging with QA team.
 
 ## To complete this task I have already installed git, github, docker and jenkins(with sudo privileged) and follow 2 step as per below.
 
